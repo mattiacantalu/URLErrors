@@ -1,3 +1,3 @@
-# URLError
+# URLErrors
 
 NSURLError domains and codes
